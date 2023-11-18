@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",                                /* Specify what module code is generated. */
+    "noEmit": true,
+    "esModuleInterop": true,                       /* Disable resolving symlinks to their realpath. This correlates to the same flag in node. */
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,                                      /* Enable all strict type-checking options. */
+    "noUncheckedIndexedAccess": true,                 /* Add 'undefined' to a type when accessed using an index. */
+    "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
+  }
+}
